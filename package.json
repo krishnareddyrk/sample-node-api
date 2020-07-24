@@ -1,7 +1,7 @@
 {
-  "name": "sample-api",
+  "name": "sample-node-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Zowe sample node API",
   "main": "index.js",
   "scripts": {
     "start": "node server/app.js --service sample-node-api --port 8080 --key sslcert/server.key --cert sslcert/server.cert",
