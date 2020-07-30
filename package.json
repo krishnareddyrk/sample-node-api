@@ -14,7 +14,7 @@
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "swagger-ui-express": "^4.1.4",
-    "yargs": "^8.0.2"
+    "yargs": "^15.4.1"
   },
   "devDependencies": {
     "mkdirp": "^1.0.3",
